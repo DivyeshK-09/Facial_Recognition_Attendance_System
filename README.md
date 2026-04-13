@@ -1,9 +1,4 @@
 
----
-
-#  Facial Recognition Attendance System
-
-```md
 # Facial Recognition Attendance System
 
 ## Overview
