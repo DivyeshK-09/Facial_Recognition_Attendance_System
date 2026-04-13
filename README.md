@@ -1,47 +1,47 @@
 
 ---
 
-# 😊 3. Facial Recognition Attendance System
+# Facial Recognition Attendance System
 
 ```md
-# 😊 Facial Recognition Attendance System
+#  Facial Recognition Attendance System
 
-## 📌 Overview
+## Overview
 An automated attendance system using computer vision to पहचान individuals via facial recognition.
 
-## 🎯 Objective
+## Objective
 - Eliminate manual attendance
 - Improve accuracy and efficiency
 
-## 🧠 Approach
+## Approach
 - Face detection using OpenCV
 - Face encoding & matching
 - Real-time recognition
 
-## ⚙️ Tech Stack
+## Tech Stack
 - Python
 - OpenCV
 - NumPy
 
-## 🏗️ Workflow
+## Workflow
 1. Capture face
 2. Encode facial features
 3. Compare with database
 4. Mark attendance
 
-## 📈 Results
+## Results
 - Real-time detection
 - Reduced human error
 
-## ⚠️ Challenges
+## Challenges
 - Lighting conditions
 - Multiple faces detection
 
-## 🔮 Future Improvements
+## Future Improvements
 - Cloud database integration
 - Mask detection support
 - Mobile app version
 
-## 🖥️ How to Run
+## How to Run
 ```bash
 python main.py
