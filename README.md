@@ -1,13 +1,13 @@
 
 ---
 
-#Facial Recognition Attendance System
-
-```md
 #  Facial Recognition Attendance System
 
+```md
+# Facial Recognition Attendance System
+
 ## Overview
-An automated attendance system using computer vision to पहचान individuals via facial recognition.
+An automated attendance system using facial recognition to identify individuals in real time.
 
 ## Objective
 - Eliminate manual attendance
@@ -15,7 +15,7 @@ An automated attendance system using computer vision to पहचान individu
 
 ## Approach
 - Face detection using OpenCV
-- Face encoding & matching
+- Face encoding and matching
 - Real-time recognition
 
 ## Tech Stack
@@ -26,7 +26,7 @@ An automated attendance system using computer vision to पहचान individu
 ## Workflow
 1. Capture face
 2. Encode facial features
-3. Compare with database
+3. Match with database
 4. Mark attendance
 
 ## Results
@@ -34,13 +34,13 @@ An automated attendance system using computer vision to पहचान individu
 - Reduced human error
 
 ## Challenges
-- Lighting conditions
-- Multiple faces detection
+- Lighting variations
+- Multiple face detection
 
 ## Future Improvements
 - Cloud database integration
-- Mask detection support
-- Mobile app version
+- Mask detection
+- Mobile application
 
 ## How to Run
 ```bash
