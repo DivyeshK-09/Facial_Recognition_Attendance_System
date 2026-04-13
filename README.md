@@ -1,7 +1,7 @@
 
 ---
 
-# Facial Recognition Attendance System
+#Facial Recognition Attendance System
 
 ```md
 #  Facial Recognition Attendance System
