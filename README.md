@@ -1,4 +1,47 @@
-# Facial_Recognition_Attendance_System
- Reads frames in real time, taking input from camera (integrated or webcam).
 
-This model initiates camera integrated/connected to the system and captures the images frame by frame, identifies faces in these frames and then matches them to the ones in the database, and marks present in the  if an match is found.
+---
+
+# 😊 3. Facial Recognition Attendance System
+
+```md
+# 😊 Facial Recognition Attendance System
+
+## 📌 Overview
+An automated attendance system using computer vision to पहचान individuals via facial recognition.
+
+## 🎯 Objective
+- Eliminate manual attendance
+- Improve accuracy and efficiency
+
+## 🧠 Approach
+- Face detection using OpenCV
+- Face encoding & matching
+- Real-time recognition
+
+## ⚙️ Tech Stack
+- Python
+- OpenCV
+- NumPy
+
+## 🏗️ Workflow
+1. Capture face
+2. Encode facial features
+3. Compare with database
+4. Mark attendance
+
+## 📈 Results
+- Real-time detection
+- Reduced human error
+
+## ⚠️ Challenges
+- Lighting conditions
+- Multiple faces detection
+
+## 🔮 Future Improvements
+- Cloud database integration
+- Mask detection support
+- Mobile app version
+
+## 🖥️ How to Run
+```bash
+python main.py
